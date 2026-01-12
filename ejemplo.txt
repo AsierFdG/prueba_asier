@@ -1,2 +1,1 @@
-Esto es una prueba
-cambio realizado en rama1
+cambio para producir conflicto
